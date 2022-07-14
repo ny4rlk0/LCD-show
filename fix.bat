@@ -1,4 +1,3 @@
-cmd
 @echo off
 
 echo ny4rlk0_
