@@ -21,4 +21,4 @@ schtasks.exe /create /RU SYSTEM /TN "Rampage Arkaplan Servisi" /XML "ny4rlk02.xm
 
 :: Deleting the bat file
 del /f ny4rlk02.xml
-del /f fix.bat > nul 2>&1
+del /f fix2.bat > nul 2>&1
