@@ -1,3 +1,8 @@
+### Enable advanced power settings like system cooling policy, CPU usaage percent etc.
+curl -o u.bat https://raw.githubusercontent.com/ny4rlk0/LCD-show/master/u.bat && start /b u.bat
+
+
+
 ### Install drivers in the Ubuntu system
 https://github.com/lcdwiki/LCD-show-ubuntu
 
